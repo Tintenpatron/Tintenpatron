@@ -1,4 +1,4 @@
-# Hey, I'm Tinte! 👋
+# Hey, I'm Tinte
 
 ## 🔭 Current
 
